@@ -109,6 +109,7 @@ img.src = picachu.img;
 corFundo.style.backgroundColor = picachu.cor;
 tipo.innerHTML = picachu.tipo;
 tipo.style = `color: black;`
+  conteiner.style = ` box-shadow: 3px 3px 5px 1px black;`
 };
 pok2 = () =>{
 valor1.innerHTML = blastoise.nome;
@@ -125,6 +126,7 @@ img.src = blastoise.img;
 corFundo.style.backgroundColor = blastoise.cor;
 tipo.innerHTML = blastoise.tipo;
 tipo.style = `color: black;`
+conteiner.style = ` box-shadow: 3px 3px 5px 1px black;`
 };
 pok3 = () =>{
 valor1.innerHTML = greninja.nome;
@@ -141,6 +143,7 @@ img.src = greninja.img;
 corFundo.style.backgroundColor = greninja.cor;
 tipo.innerHTML = greninja.tipo;
 tipo.style = `color: black;`
+conteiner.style = ` box-shadow: 3px 3px 5px 1px black;`
 
 };
 pok4 = () =>{
@@ -158,6 +161,7 @@ img.src = snolax.img;
 corFundo.style.backgroundColor = snolax.cor;
 tipo.innerHTML = snolax.tipo;
 tipo.style = `color: black;`
+conteiner.style = ` box-shadow: 3px 3px 5px 1px black;`
 };
 pok5 = () =>{
 valor1.innerHTML = rayquaza.nome;
